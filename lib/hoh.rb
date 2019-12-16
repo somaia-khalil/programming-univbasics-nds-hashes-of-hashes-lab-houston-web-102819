@@ -48,7 +48,9 @@
 
 def naming_system
 
-
+portion = {
+  
+}
 end 
 
 
